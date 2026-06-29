@@ -2,11 +2,10 @@
 title: Getting Started
 layout: default
 nav_order: 2
+has_children: true
 ---
 
 # Getting Started
-
-Welcome to Taiko no Tatsujin!
 
 Whether you've just discovered the game or you're preparing to play for the first time, this section covers everything you need to understand the basics. You'll learn how the game works, how to read notes, how scoring works, and what all the different game modes and terms mean.
 
