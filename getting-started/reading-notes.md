@@ -29,6 +29,8 @@ Every other note in the game is simply a variation of one of these two inputs.
 
 ---
 
+# Basic Notes
+
 ## 🔴 Don Note
 
 *[Insert image]*
