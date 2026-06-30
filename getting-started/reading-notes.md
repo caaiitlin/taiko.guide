@@ -51,7 +51,7 @@ These are the note types you'll encounter in almost every song. Learning them is
 
 ## Don Note
 
-![Don Note](/taiko-guide/assets/images/getting-started/don.png)
+![Don Note](/assets/images/getting-started/don.png)
 
 The **Don note** is represented by a **red circle**. 
 
@@ -63,7 +63,7 @@ Remember: **red** notes always represent **Don**.
 
 ## Ka Note
 
-![Ka Note](/taiko-guide/assets/images/getting-started/ka.png)
+![Ka Note](/assets/images/getting-started/ka.png)
 
 The **Ka note** is represented by a **blue circle**. 
 
@@ -75,7 +75,7 @@ Remember: **blue** notes always represent **Ka**.
 
 ## Large Don & Ka Notes
 
-![Large Notes](/taiko-guide/assets/images/getting-started/large-notes.png)
+![Large Notes](/assets/images/getting-started/large-notes.png)
 
 **Large Notes** are represented by **larger versions of the standard Don and Ka notes**. 
 
@@ -98,7 +98,7 @@ so many players simply play them the same way as regular Don and Ka notes.
 
 ## Drum Rolls
 
-![Drum Rolls](/taiko-guide/assets/images/getting-started/rolls.png)
+![Drum Rolls](/assets/images/getting-started/rolls.png)
   
 **Drum Rolls** begin with a yellow note followed by a yellow bar. As with Don and Ka notes, there are two variants: 
 - Drum Roll
@@ -126,8 +126,8 @@ The following notes only appear in specific game modes and are not part of stand
 
 ## Kusudama (Party Popper/Mallet Notes)
 
-![Kusudama](/taiko-guide/assets/images/getting-started/kusudama.png)
-![Mallet](/taiko-guide/assets/images/getting-started/mallet.png)
+![Kusudama](/assets/images/getting-started/kusudama.png)
+![Mallet](/assets/images/getting-started/mallet.png)
 
 **Kusudama**, referred to as **Party Popper Notes** on arcade versions and **Mallet Notes** on some console versions ... 
 
@@ -135,7 +135,7 @@ Like Balloon Notes, repeatedly strike the **surface** until the required number 
 
 ## Hand-Holding Notes (Double Notes)
 
-![Hand-Holding Notes](/taiko-guide/assets/images/getting-started/hand-holding.png)
+![Hand-Holding Notes](/assets/images/getting-started/hand-holding.png)
 
 **Hand-Holding Notes**, also referred to as **Double Notes** ...
 
@@ -157,7 +157,7 @@ When the note reaches the judgement circle, both players must strike their drums
 
 #### Read Next ➡️
 
-**[Scoring & Judgement](/taiko-guide/getting-started/scoring)**
+**[Scoring & Judgement](/getting-started/scoring)**
 
 ---
 
