@@ -89,4 +89,12 @@ Answers to some of the most common questions from new players, including choosin
 
 ---
 
-**Next:** [Reading Notes](/getting-started/reading-notes/)
+#### Read Next ➡️
+
+**[Reading Notes](/getting-started/reading-notes/)**
+
+---
+
+🚧 **taiko.guide** is currently under active development.
+
+New pages and features are being added over time as documentation is researched and written.
