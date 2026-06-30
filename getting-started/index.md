@@ -31,7 +31,7 @@ If you're completely new, this is the best place to begin.
 
 If your first experience will be on an arcade cabinet, start here.  
 
-➡️ Read the **[At the Arcade](/taiko-guide/arcade/)** guide first.  
+➡️ Read the **[At the Arcade](/arcade/)** guide first.  
 
 You'll learn about:
 - Finding a cabinet 
@@ -43,7 +43,7 @@ You'll learn about:
 
 If your first experience will be on a home version of the game, start here.  
 
-➡️ Read the **[At Home](/taiko-guide/home/)** guide first.
+➡️ Read the **[At Home](/home/)** guide first.
 
 You'll learn about:
 - Choosing a platform
@@ -62,23 +62,23 @@ It's time to understand how Taiko no Tatsujin really works.
 
 The guides below explain the game's core mechanics. They can be read in order, or you can jump straight to the topic you're interested in.
 
-## 🥁 [Reading Notes](/taiko-guide/getting-started/reading-notes)
+## 🥁 [Reading Notes](/getting-started/reading-notes)
 
 Learn what every note type means, how to recognise them, and the correct way to play them.  
 
-## ⭐ [Scoring & Judgement](/taiko-guide/getting-started/scoring)
+## ⭐ [Scoring & Judgement](/getting-started/scoring)
 
 Understand how your performance is scored, how the Soul Gauge works, how accuracy is judged, and what determines your final result.   
 
-## 📈 [Difficulty Levels](/taiko-guide/getting-started/difficulty)
+## 📈 [Difficulty Levels](/getting-started/difficulty)
 
 Learn how Taiko's difficulty system works, what the star ratings represent, and how to choose songs that match your current skill level.    
 
-## 📖 [Terminology](/taiko-guide/getting-started/terminology)
+## 📖 [Terminology](/getting-started/terminology)
 
 A reference guide explaining the common words, abbreviations, and community terms you'll encounter throughout the game.
 
-## [Frequently Asked Questions](/taiko-guide/faq/)
+## [Frequently Asked Questions](/faq/)
 
 Answers to some of the most common questions from new players, including choosing a version to play, controllers, difficulty recommendations, and more.
 
@@ -86,7 +86,7 @@ Answers to some of the most common questions from new players, including choosin
 
 #### Read Next ➡️
 
-**[Reading Notes](/taiko-guide/getting-started/reading-notes)**
+**[Reading Notes](/getting-started/reading-notes)**
 
 ---
 
