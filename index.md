@@ -14,17 +14,6 @@ Whether you're completely new to Taiko or an experienced player looking for a re
 
 ---
 
-# New to Taiko?
-
-If you're not sure where to begin, we recommend starting with:
-
-### 1. [📖 Getting Started](/getting-started)
-### 2. [🕹️ At the Arcade (TBA)](/arcade) or [🏡 At Home](/home)
-### 3. [🥁 Controllers](/controllers)
-### 4. [🎯 Technique (TBA)](/technique)
-
----
-
 # Start Exploring
 
 ## [📖 Getting Started](/getting-started)
@@ -73,4 +62,4 @@ Documentation is being added and expanded over time, so some sections may be inc
 
 Suggestions, corrections, and contributions are always welcome.
 
-If you spot an error, have an idea for improving a page, or would like to contribute new content, please open an issue or submit a pull request on GitHub.
+If you spot an error, have an idea for improving a page, or would like to contribute new content, please open an issue on GitHub.
