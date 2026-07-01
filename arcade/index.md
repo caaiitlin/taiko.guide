@@ -5,7 +5,7 @@ nav_order: 3
 has_children: true
 ---
 
-# Arcade
+# Playing at the Arcade
 
 This section covers everything related to playing Taiko no Tatsujin in the arcade.
 
