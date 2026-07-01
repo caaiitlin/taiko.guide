@@ -3,6 +3,7 @@ title: Chart Mechanics
 layout: default
 parent: Getting Started
 nav_order: 5
+has_toc: false
 ---
 
 # Chart Mechanics

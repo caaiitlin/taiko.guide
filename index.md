@@ -19,8 +19,8 @@ Whether you're completely new to Taiko or an experienced player looking for a re
 If you're not sure where to begin, we recommend starting with:
 
 ### 1. [📖 Getting Started](/getting-started)
-### 2. [🕹️ At the Arcade](/arcade) or [🏡 At Home](/home)
-### 3. [🥁 Controllers](/equipment/controllers)
+### 2. [🕹️ At the Arcade (TBA)](/arcade) or [🏡 At Home](/home)
+### 3. [🥁 Controllers](/controllers)
 ### 4. [🎯 Technique (TBA)](/technique)
 
 ---
@@ -31,19 +31,19 @@ If you're not sure where to begin, we recommend starting with:
 
 New to Taiko no Tatsujin? Start here to learn the core gameplay mechanics, note types, scoring system, difficulty levels, and terminology used throughout the game. It's the perfect foundation before exploring the rest of the site.
 
-## [🕹️ At the Arcade](/arcade)
+## [🕹️ At the Arcade (TBA)](/arcade)
 
 Planning your first arcade visit or travelling to Japan? Learn how arcade cabinets work, use a Banapass, navigate game modes, understand arcade etiquette, and get the most out of the arcade experience.
 
-## [🏡 At Home](/home)
+## [🏡 At Home (TBA)](/home)
 
 Want to play outside the arcade? Explore official console releases, PC options, recommended setups, calibration, and troubleshooting to create the best possible home experience.
 
-## [🥁 Controllers](/equipment/controllers)
+## [🥁 Controllers (TBA)](/controllers)
 
 Choosing a controller can be confusing, especially with so many options available. Compare official and third-party controllers, understand compatibility, and find the setup that best suits your budget and playstyle.
 
-## [🪵 Bachi (TBA)](/equipment/bachi)
+## [🪵 Bachi (TBA)](/bachi)
 
 Looking to upgrade from the standard arcade bachi? Learn how different materials, dimensions, grip styles, and makers can influence comfort, control, and overall performance.
 

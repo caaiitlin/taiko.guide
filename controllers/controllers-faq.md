@@ -1,8 +1,8 @@
 ---
 title: Controllers FAQ
 layout: default
+parent: Controllers
 nav_order: 10
-has_children: false
 has_toc: false
 ---
 

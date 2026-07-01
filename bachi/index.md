@@ -1,18 +1,12 @@
 ---
-title: Scoring & Judgement
+title: Bachi
 layout: default
-parent: Getting Started
-nav_order: 2
+nav_order: 5
+has_children: true
 has_toc: false
 ---
 
-# Scoring & Judgement
-
----
-
-#### Read Next ➡️
-
-**[Difficulty Levels](/getting-started/difficulty)**
+# Bachi
 
 ---
 

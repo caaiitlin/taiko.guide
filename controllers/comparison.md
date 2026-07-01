@@ -1,12 +1,14 @@
 ---
-title: Bachi
+title: Controller Comparison
 layout: default
-nav_order: 1
-has_children: false
+parent: Controllers
+nav_order: 4
 has_toc: false
 ---
 
-# Bachi
+# Controller Comparison
+
+This page will compare Taiko no Tatsujin home controllers across compatibility, price, feel, noise, availability, and modding potential.
 
 ---
 

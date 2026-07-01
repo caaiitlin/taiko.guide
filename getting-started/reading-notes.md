@@ -3,6 +3,7 @@ title: Reading Notes
 layout: default
 parent: Getting Started
 nav_order: 1
+has_toc: false
 ---
 
 # Reading Notes

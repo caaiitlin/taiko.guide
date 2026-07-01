@@ -1,12 +1,12 @@
 ---
-title: Equipment
+title: Bachi FAQ
 layout: default
-nav_order: 1
-has_children: true
+parent: Bachi
+nav_order: 10
 has_toc: false
 ---
 
-# Equipment
+# Frequently Asked Questions - Bachi
 
 ---
 

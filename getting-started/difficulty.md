@@ -3,6 +3,7 @@ title: Difficulty Levels
 layout: default
 parent: Getting Started
 nav_order: 3
+has_toc: false
 ---
 
 # Difficulty Levels

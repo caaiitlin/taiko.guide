@@ -3,6 +3,7 @@ title: Taiko Terminology
 layout: default
 parent: Getting Started
 nav_order: 4
+has_toc: false
 ---
 
 # Taiko Terminology
