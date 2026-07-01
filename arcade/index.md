@@ -3,9 +3,10 @@ title: At the Arcade
 layout: default
 nav_order: 3
 has_children: true
+has_toc: false
 ---
 
-# Arcade
+# Playing at the Arcade
 
 This section covers everything related to playing Taiko no Tatsujin in the arcade.
 

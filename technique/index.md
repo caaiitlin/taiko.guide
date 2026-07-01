@@ -1,18 +1,12 @@
 ---
-title: Taiko Terminology
+title: Technique
 layout: default
-parent: Getting Started
-nav_order: 4
+nav_order: 7
+has_children: true
 has_toc: false
 ---
 
-# Taiko Terminology
-
-----
-
-#### Read Next ➡️
-
-**[Chart Mechanics](/getting-started/chart-mechanics)**
+# Technique
 
 ---
 

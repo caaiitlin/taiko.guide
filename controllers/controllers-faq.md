@@ -1,14 +1,12 @@
 ---
-title: Controller Comparison
+title: Controllers FAQ
 layout: default
 parent: Controllers
-nav_order: 4
+nav_order: 10
 has_toc: false
 ---
 
-# Controller Comparison
-
-This page will compare Taiko no Tatsujin home controllers across compatibility, price, feel, noise, availability, and modding potential.
+# Frequently Asked Questions About Taiko Controllers
 
 ---
 

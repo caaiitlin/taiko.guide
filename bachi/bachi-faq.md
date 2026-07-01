@@ -1,18 +1,12 @@
 ---
-title: Taiko Terminology
+title: Bachi FAQ
 layout: default
-parent: Getting Started
-nav_order: 4
+parent: Bachi
+nav_order: 10
 has_toc: false
 ---
 
-# Taiko Terminology
-
-----
-
-#### Read Next ➡️
-
-**[Chart Mechanics](/getting-started/chart-mechanics)**
+# Frequently Asked Questions - Bachi
 
 ---
 

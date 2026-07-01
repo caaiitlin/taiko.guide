@@ -3,6 +3,7 @@ title: Dan-i Dojo
 layout: default
 nav_order: 8
 has_children: true
+has_toc: false
 ---
 
 # Dan-i Dojo
@@ -19,3 +20,10 @@ This section explains how the ranking system works and provides preparation guid
 - Song analysis
 - Practice recommendations
 - Common fail points
+
+
+---
+
+🚧 **taiko.guide** is currently under active development.
+
+Documentation is being added and expanded over time, so some sections may be incomplete or marked as work in progress.

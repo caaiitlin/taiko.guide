@@ -1,8 +1,9 @@
 ---
 title: Controllers
 layout: default
-nav_order: 5
+nav_order: 6
 has_children: true
+has_toc: false
 ---
 
 # Controllers
@@ -20,3 +21,9 @@ This section compares official and third-party controllers, explains their diffe
 - Controller Maintenance
 - Common Modifications
 - Troubleshooting
+
+---
+
+🚧 **taiko.guide** is currently under active development.
+
+Documentation is being added and expanded over time, so some sections may be incomplete or marked as work in progress.
