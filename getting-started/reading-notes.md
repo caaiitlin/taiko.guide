@@ -14,16 +14,14 @@ Unless otherwise stated, this guide describes the behaviour of the **modern Niji
 
 ### On this page
 
-- [The Drum](#the-drum)
-- [Standard Notes](#standard-notes)
-- [Special Notes](#special-notes)
+- [The Taiko Drum](#the-taiko-drum)
+- [Note Types](#note-types)
 - [Reading Tips](#reading-tips)
 - [Common Beginner Mistakes](#common-beginner-mistakes)
-- [Quick Reference](#quick-reference)
 
 ---
 
-# The Drum
+# The Taiko Drum
 
 Before learning the different note types, it's important to understand how the taiko drum is played.
 
@@ -34,7 +32,7 @@ The drum has **two playable areas**:
 
 Each area can be struck on either the **left** or **right** side, giving four possible inputs in total.
 
-*[insert diagram]*
+![Drum Areas](/assets/images/getting-started/drum-areas.png)
 
 The rest of this guide uses **surface** and **rim** when referring to the playable areas of the drum.
 
@@ -44,6 +42,8 @@ The following abbreviations are also used:
 - **K** = Ka (rim)
 
 Every note in Taiko no Tatsujin is simply a variation of one or both of these two inputs.
+
+---
 
 # Standard Notes
 
@@ -120,9 +120,11 @@ Because of this, most players simply play Large Drum Rolls the same way as regul
 
 > Scoring: Large Drum Rolls award more points per hit compared to regular Drum Rolls, but are otherwise played identically. 
 
+---
+
 # Special Notes
 
-The following notes only appear in specific game modes and are not part of standard gameplay.
+The following note types do not appear in all charts.
 
 ## Kusudama (Party Popper/Mallet Notes)
 
@@ -146,12 +148,22 @@ When the note reaches the judgement circle, both players must strike their drums
 
 ---
 
+# Reading Tips
 
+- Read from left to right.
+- Focus on note colour before size.
+- Learn to recognise note patterns instead of individual notes.
+- Look ahead rather than staring at the hit area.
+- Use the bar lines to help keep track of timing.
+- GOGO Time changes note appearance but not how notes are hit.
 
+---
 
-
-
-
+Common Beginner Mistakes
+- Confusing Don and Ka.
+- Watching the judgement area instead of looking ahead.
+- Hitting balloon notes only once.
+- (PC/Console) Forgetting to use both hands on big notes.
 
 ---
 
@@ -163,7 +175,7 @@ When the note reaches the judgement circle, both players must strike their drums
 
 🚧 **taiko.guide** is currently under active development.
 
-New pages and features are being added over time as documentation is researched and written.
+Documentation is being added and expanded over time, so some sections may be incomplete or marked as work in progress.
 
 
 

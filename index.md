@@ -55,7 +55,7 @@ Want to improve your consistency or tackle more difficult charts? Discover guide
 
 Preparing for your next Dan-i Dojo rank? Learn how the ranking system works, what each course is designed to test, and discover tips and resources to help you succeed.
 
-## [🌐 Community & Resources (TBA)](/community)
+## [🌐 Resources & Communities (TBA)](/resources)
 
 Looking to connect with other players or discover useful tools? Find community projects, Discord servers, tournaments, videos, and other resources from across the English-speaking Taiko community.
 

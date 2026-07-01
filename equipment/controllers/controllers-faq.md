@@ -1,17 +1,12 @@
 ---
-title: Scoring & Judgement
+title: Controllers FAQ
 layout: default
-parent: Getting Started
-nav_order: 2
+nav_order: 10
+has_children: false
+has_toc: false
 ---
 
-# Scoring & Judgement
-
----
-
-#### Read Next ➡️
-
-**[Difficulty Levels](/getting-started/difficulty)**
+# Frequently Asked Questions About Taiko Controllers
 
 ---
 

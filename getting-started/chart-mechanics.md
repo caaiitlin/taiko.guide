@@ -5,25 +5,10 @@ parent: Getting Started
 nav_order: 5
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Chart Mechanics
 
 ---
 
 🚧 **taiko.guide** is currently under active development.
 
-New pages and content are being added over time as documentation is researched and written.
+Documentation is being added and expanded over time, so some sections may be incomplete or marked as work in progress.

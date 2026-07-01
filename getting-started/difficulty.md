@@ -5,32 +5,16 @@ parent: Getting Started
 nav_order: 3
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Difficulty Levels
 
 ---
 
 #### Read Next ➡️
 
-**[Terminology](/taiko-guide/getting-started/terminology)**
+**[Terminology](/getting-started/terminology)**
 
 ---
 
 🚧 **taiko.guide** is currently under active development.
 
-New pages and features are being added over time as documentation is researched and written.
+Documentation is being added and expanded over time, so some sections may be incomplete or marked as work in progress.

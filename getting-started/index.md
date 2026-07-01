@@ -18,7 +18,7 @@ You'll learn how to read notes, how scoring works, how difficulty is measured, a
 
 If you're completely new, this is the best place to begin.
 
-### On this page
+## On this page
 
 - [Where Are You Playing?](#where-are-you-playing)
 - [Learning the Basics](#learning-the-basics)
@@ -78,7 +78,7 @@ Learn how Taiko's difficulty system works, what the star ratings represent, and 
 
 A reference guide explaining the common words, abbreviations, and community terms you'll encounter throughout the game.
 
-## [Frequently Asked Questions](/faq/)
+## [Frequently Asked Questions](/getting-started/faq/)
 
 Answers to some of the most common questions from new players, including choosing a version to play, controllers, difficulty recommendations, and more.
 
@@ -92,4 +92,4 @@ Answers to some of the most common questions from new players, including choosin
 
 🚧 **taiko.guide** is currently under active development.
 
-New pages and features are being added over time as documentation is researched and written.
+Documentation is being added and expanded over time, so some sections may be incomplete or marked as work in progress.
