@@ -1,0 +1,29 @@
+---
+title: Chart Mechanics
+layout: default
+parent: Getting Started
+nav_order: 6
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+🚧 **taiko.guide** is currently under active development.
+
+New pages and content are being added over time as documentation is researched and written.
