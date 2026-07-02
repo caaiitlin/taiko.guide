@@ -40,6 +40,10 @@ Learn the common etiquette expected at Taiko no Tatsujin cabinets, from queuing 
 
 Follow a typical arcade session from start to finish, from tapping your Banapass and choosing a game mode to playing your first song and viewing your results.
 
+## 🌐 Donder Hiroba
+
+Learn how to use the official companion website to view your scores, manage your profile, customise cosmetics, and track your arcade progress.
+
 ---
 
 #### Read Next ➡️
