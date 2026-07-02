@@ -50,16 +50,6 @@ Looking to connect with other players or discover useful tools? Find community p
 
 ---
 
-# Development
-
-## Project Status
-
 🚧 **taiko.guide** is currently under active development.
 
 Documentation is being added and expanded over time, so some sections may be incomplete or marked as work in progress.
-
-## Contributing
-
-Suggestions, corrections, and contributions are always welcome.
-
-If you spot an error, have an idea for improving a page, or would like to contribute new content, please open an issue on GitHub.
