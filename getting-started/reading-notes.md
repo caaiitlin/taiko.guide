@@ -46,7 +46,7 @@ The following abbreviations are also used:
 Every note in Taiko no Tatsujin is simply a variation of one or both of these two inputs.
 
 {: .fact }
-**Fun fact:** The drum used in *Taiko no Tatsujin* is based on the traditional Japanese **taiko** (太鼓), a family of percussion instruments that have been used in Japan for centuries.
+**The drum used in *Taiko no Tatsujin* is based on the traditional Japanese **taiko** (太鼓), a family of percussion instruments that have been used in Japan for centuries.
 
 ---
 
@@ -88,7 +88,8 @@ When the drum roll reaches the judgement circle, repeatedly strike the drum unti
 
 **Both don and ka hits count**, so you may strike either the surface or the rim during a drum roll.
 
-> Drum rolls do not affect your combo. Missing a drum roll won't cause a combo break. 
+{: .note }
+Drum rolls do not affect your combo. Missing a drum roll won't cause a combo break. 
 
 Remember: 
 - Individual hit timing does not matter during drum rolls.
@@ -111,7 +112,7 @@ On **Nijiiro** arcade cabinets, the larger note indicates a **strong strike**. H
 > - **Large don:** Press both don inputs together.
 > - **Large ka:** Press both ka inputs together.
 > - **Large drum rolls** are played the same way as regular drum rolls, but award more points per hit.
-> 
+> 
 > See [Scoring & Judgement](/getting-started/scoring) for more information.
 
 ## Balloon
@@ -127,7 +128,7 @@ Strike the surface repeatedly until the displayed number reaches zero before the
 {: .tip }
 The required number of hits is shown inside the Balloon. If the required number of hits isn’t reached before the note ends, the balloon simply won’t pop.
 
-—- 
+---
 
 # Uncommon Notes
 
@@ -146,10 +147,10 @@ Strike the surface of the drum repeatedly until the required number of hits has 
 
 **Hand-Holding Notes** only appear in certain 2-player charts.
 
-When the note reaches the judgement circle, both players must strike the drum surface at the same time.
+When the note reaches the judgement circle, both players must strike their drum surfaces at the same time.
 
 {: .tip }
-> Hand-Holding Notes are exclusive to specific 2-player charts and can safely be ignored while learning the fundamentals of the game.
+Hand-Holding Notes are exclusive to specific 2-player charts and can safely be ignored while learning the fundamentals of the game.
 
 ---
 
