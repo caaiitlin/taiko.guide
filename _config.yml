@@ -25,7 +25,10 @@ callouts:
     color: green
   important:
     title: Important
-    color: yellow
+    color: orange
   diff:
     title: PC/Console Difference
     color: gray
+  fact:
+    title: Fun Fact
+    color: pink
