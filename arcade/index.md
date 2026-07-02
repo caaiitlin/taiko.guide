@@ -16,7 +16,7 @@ Whether you're planning your first visit or looking to make the most of every cr
 
 ---
 
-## 📍 Finding an Arcade
+## [📍Finding An Arcade](/getting-started/finding-arcade)
 
 Learn how to find Taiko no Tatsujin cabinets in your region, including useful arcade locators, community resources, and tips for finding machines while travelling.
 
@@ -48,7 +48,7 @@ Learn how to use the official companion website to view your scores, manage your
 
 #### Read Next ➡️
 
-**[Finding An Arcade](/getting-started/finding-an-arcade)**
+**[Finding An Arcade](/getting-started/finding-arcade)**
 
 ---
 
