@@ -1,18 +1,18 @@
 ---
-title: Chart Mechanics
+title: Bachi FAQ
 layout: default
-parent: Getting Started
-nav_order: 5
+parent: Bachi
+nav_order: 8
 has_toc: false
 ---
 
-# Chart Mechanics
+# Frequently Asked Questions About Maibachi
 
 ---
 
 #### Next Topic ➡️
 
-**[At the Arcade](/arcade)**
+**[Controllers](/controllers)**
 
 ---
 

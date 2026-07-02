@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Size & Weight
 layout: default
-parent: Controllers
-nav_order: 4
+parent: Bachi
+nav_order: 3
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Size & Weight
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Grip Tape & Wrapping](/bachi/grip-tape)**
 
 ---
 

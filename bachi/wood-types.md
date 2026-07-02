@@ -1,12 +1,18 @@
 ---
-title: Bachi FAQ
+title: Wood Types
 layout: default
 parent: Bachi
-nav_order: 10
+nav_order: 2
 has_toc: false
 ---
 
-# Frequently Asked Questions - Bachi
+# Wood Types
+
+---
+
+#### Read Next ➡️
+
+**[Size & Weight](/bachi/size-weight)**
 
 ---
 

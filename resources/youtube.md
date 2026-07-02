@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: YouTube Channels
 layout: default
-parent: Controllers
-nav_order: 4
+parent: Resources
+nav_order: 3
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# YouTube Channels
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Discord Servers](/resources/discord)**
 
 ---
 

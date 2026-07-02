@@ -6,21 +6,39 @@ has_children: true
 has_toc: false
 ---
 
-# Dan-i Dojo
+# Dan-i Dojo (段位道場)
 
-Dan-i Dojo is one of Taiko no Tatsujin's most popular challenge modes, testing consistency across multiple songs under strict conditions.
+**Dan-i Dojo** is Taiko no Tatsujin's challenge mode, designed to test a player's consistency, accuracy, and endurance across a series of songs. Rather than focusing on a single chart, each course requires you to meet a set of conditions while playing three curated songs back-to-back.
 
-This section explains how the ranking system works and provides preparation guides, song breakdowns, and practice recommendations for each Dan level.
+Dan-i Dojo is one of the game's most popular long-term goals. Players often use it to measure their skill level and improvement over time, with new courses released each year ranging from beginner-friendly Kyuu ranks through to the prestigious Tatsujin title.
 
-## Topics
+This guide explains how Dan-i Dojo works, how the ranking system is structured, and what to expect when attempting each course.
 
-- What is Dan-i Dojo?
-- Dan requirements
-- Preparation guides
-- Song analysis
-- Practice recommendations
-- Common fail points
+Don't be discouraged if you can't pass a course immediately. Even experienced players often spend weeks or months practising before earning a new rank.
 
+# How Dan-i Dojo Works
+
+Whether you're attempting your very first Kyuu course or aiming for the highest Jin titles, this section explains how Dan-i Dojo works and what you'll need to know before taking on the challenge.
+
+If you're new to Dan-i Dojo, start with **Rank Structure** and **Challenge Mechanics**. Once you're familiar with how the mode works, you can explore the current year's courses and begin working towards your next rank.
+
+## 🎖️ [Rank Structure](/dani-dojo/rank-structure)
+
+Learn how the Dojo ranking system is organised, from the Kyū and Dan ranks through to Kurouto, Meijin, Chojin, and Tatsujin.
+
+## 📋 [Challenge Mechanics](/dani-dojo/challenge-mechanics)
+
+Understand how Dojo works, including course structure, conditions, soul gauge requirements, passing criteria, and other mechanics used throughout the mode.
+
+## 📅 [Current Courses](/dani-dojo/current-courses)
+
+Browse the current year's Dojo courses, including the songs, conditions, and other information for each rank.
+
+---
+
+#### Read Next ➡️
+
+**[Rank Structure](/dani-dojo/rank-structure)**
 
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Discord Servers
 layout: default
-parent: Controllers
+parent: Resources
 nav_order: 4
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Discord Servers
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Handy Tools](/resources/tools)**
 
 ---
 

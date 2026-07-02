@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Arcade-Style Controllers
 layout: default
 parent: Controllers
-nav_order: 4
+nav_order: 2
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Arcade-Style Controllers
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Compact Controllers](/controllers/compact)**
 
 ---
 

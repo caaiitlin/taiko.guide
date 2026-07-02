@@ -12,35 +12,37 @@ For many players, the arcade is the best way to experience Taiko no Tatsujin. Of
 
 If you've only played at home, your first arcade visit can feel a little intimidating. This section explains everything you need to know before your first game, from finding a cabinet and using a Banapass, to selecting songs and understanding the different game modes.
 
-Whether you're planning your first visit or looking to make the most of every credit, the guides below cover each part of the arcade experience. 
-
 ---
 
-## [📍Finding An Arcade](/arcade/finding-arcade)
+# The Arcade Experience
 
-Learn how to find Taiko no Tatsujin cabinets in your region, including useful arcade locators, community resources, and tips for finding machines while travelling.
+Whether you're planning your first visit or looking to make the most of every credit, the guides below cover each part of the arcade experience. 
 
-## 💳 Banapass
+## 📍 [Finding an Arcade](/arcade/finding-arcade)
+
+Learn how to find Taiko cabinets in your region, including useful arcade locators, community resources, and tips for finding machines while travelling.
+
+## 💳 [Banapass](/arcade/banapass)
 
 Learn what a Banapass is, how to use one, and why it's recommended if you plan to play regularly.
 
-## 🎵 Song Selection
+## [Song Select](/arcade/song-select)
 
 Learn how to navigate the song selection screen, choose difficulties, and understand the information shown before starting a song.
 
-## 🎯 Game Modes
+## 🎯 [Game Modes](/arcade/modes)
 
 Get an overview of the available game modes in Nijiiro, including standard play, Dan-i Dojo, and other modes you'll encounter.
 
-## 🤝 Arcade Etiquette
+## 🤝 [Arcade Etiquette](/arcade/etiquette)
 
-Learn the common etiquette expected at Taiko no Tatsujin cabinets, from queuing and sharing machines to respecting other players and the equipment.
+Learn the common etiquette expected at Taiko cabinets, from queuing and sharing machines to respecting other players and the equipment.
 
-## 🥁 Your First Credit
+## 🥁 [Your First Credit](/arcade/first-credit)
 
 Follow a typical arcade session from start to finish, from tapping your Banapass and choosing a game mode to playing your first song and viewing your results.
 
-## 🌐 Donder Hiroba
+## 🌐 [Donder Hiroba](/arcade/donder-hiroba)
 
 Learn how to use the official companion website to view your scores, manage your profile, customise cosmetics, and track your arcade progress.
 

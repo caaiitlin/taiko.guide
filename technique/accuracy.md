@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Accuracy
 layout: default
-parent: Controllers
+parent: Technique
 nav_order: 4
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Accuracy
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Practice Advice](/technique/practice-advice)**
 
 ---
 

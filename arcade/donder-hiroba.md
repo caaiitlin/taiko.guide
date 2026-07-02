@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Donder Hiroba
 layout: default
-parent: Controllers
-nav_order: 4
+parent: At the Arcade
+nav_order: 7
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Donder Hiroba
 
 ---
 
-#### Read Next ➡️
+#### Next Topic ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[At Home](/home)**
 
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: Chart Mechanics
+title: Calibration
 layout: default
-parent: Getting Started
-nav_order: 5
+parent: At Home
+nav_order: 4
 has_toc: false
 ---
 
-# Chart Mechanics
+# Calibration
 
 ---
 
-#### Next Topic ➡️
+#### Read Next ➡️
 
-**[At the Arcade](/arcade)**
+**[Troubleshooting](/home/troubleshooting)**
 
 ---
 

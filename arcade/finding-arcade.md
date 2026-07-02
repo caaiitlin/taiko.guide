@@ -11,7 +11,7 @@ has_toc: false
 Taiko no Tatsujin arcade cabinets are found all over the world, although they're far more common in some regions than others. 
 The easiest way to find a cabinet is to use community-maintained arcade locators, which are updated much more frequently than individual websites.
 
-This page explains the best ways to find a Taiko no Tatsujin cabinet, along with a few tips to help you avoid disappointment before making a special trip to a listed location.
+This page explains the best ways to find a Taiko cabinet, along with a few tips to help you avoid disappointment before making a special trip to a listed location.
 
 ### On this page
 
@@ -24,10 +24,10 @@ This page explains the best ways to find a Taiko no Tatsujin cabinet, along with
 
 # What is Nijiiro?
 
-**Nijiiro** (ニジイロ, meaning *rainbow-coloured*) is the current arcade version of Taiko no Tatsujin. First introduced in 2020, it continues to receive regular software updates, 
+**Nijiiro** (ニジイロ, meaning *rainbow-coloured*) is the current arcade version of Taiko. First introduced in 2020, it continues to receive regular software updates, 
 new songs, online events, and gameplay improvements.
 
-![Official Taiko no Tatsujin Nijiiro cabinet](/assets/images/arcade/taikocab.png)
+![Official Nijiiro cabinet](/assets/images/arcade/taikocab.png)
 
 Compared to older arcade versions, Nijiiro offers a smoother experience with a 120 Hz display, current online features such as score tracking, player profiles, cosmetics, events, 
 and Banapass/Amusement IC support. Newer cabinets may also include hardware improvements, such as updated drum construction for better durability and changes to reduce static 
@@ -42,7 +42,7 @@ Official online **Nijiiro** cabinets are available in regions where Bandai Namco
 
 ## Japan
 
-Japan has by far the largest number of Taiko no Tatsujin arcade cabinets and is the primary region for the arcade version. If you're visiting Japan, official online Nijiiro cabinets can be found at most major arcade chains, including Round1, GiGO, and Taito Station.
+Japan has by far the largest number of Taiko arcade cabinets and is the primary region for the arcade version. If you're visiting Japan, official online Nijiiro cabinets can be found at most major arcade chains, including Round1, GiGO, and Taito Station.
 
 ## Asia & Oceania
 
@@ -75,7 +75,7 @@ can also help confirm whether a machine is available before you visit.
 
 Zenius -I- vanisher (often shortened to **Ziv**) is one of the most widely used arcade locators for rhythm games. 
 
-To find Taiko no Tatsujin cabinets, select **Taiko no Tatsujin** as the game series, choose the appropriate game version, then search by location or arcade name. Alternatively, you can browse the interactive map to explore different regions.
+To find Taiko cabinets, select **Taiko no Tatsujin** as the game series, choose the appropriate game version, then search by location or arcade name. Alternatively, you can browse the interactive map to explore different regions.
 
 **Arcade Locator:** <https://zenius-i-vanisher.com/v5.2/arcades.php>
 
@@ -115,7 +115,7 @@ Ziv is maintained by the rhythm game community. While it's generally very accura
 
 ## Local Communities
 
-Local rhythm game communities are often the best source of up-to-date information about Taiko no Tatsujin cabinets in a particular region. If you're unable to find a cabinet using Ziv, or simply want to confirm that a cabinet is still operational before making a special trip, it's worth asking local players.
+Local rhythm game communities are often the best source of up-to-date information about Taiko cabinets in a particular region. If you're unable to find a cabinet using Ziv, or simply want to confirm that a cabinet is still operational before making a special trip, it's worth asking local players.
 
 Communities can often tell you:
 
@@ -135,11 +135,11 @@ Useful places to ask include:
 {: .tip }
 If you're travelling, joining a local rhythm game Discord server before your trip can be a great way to discover arcades, meet other players, and get the latest information on cabinet locations.
 
-A directory of regional Taiko no Tatsujin communities can be found on the **Community Directory** page (TBA) in the Resources section.
+A directory of regional Taiko communities can be found on the **Community Directory** page in the Resources section.
 
 ## Google Maps
 
-Google Maps can also be a useful way to find Taiko no Tatsujin cabinets, particularly when travelling or looking for arcades in an unfamiliar area.
+Google Maps can also be a useful way to find Taiko cabinets, particularly when travelling or looking for arcades in an unfamiliar area.
 
 Try searching for terms such as:
 
@@ -151,7 +151,19 @@ Try searching for terms such as:
 - Timezone
 - The name of a local arcade chain
 
-Many arcades upload photos of the venue interior, making it easy to confirm whether they have a Taiko no Tatsujin cabinet before visiting. Recent reviews can also be useful for checking whether a machine is still available or if there are any known issues.
+Many arcades upload photos of the venue interior, making it easy to confirm whether they have a Taiko cabinet before visiting. Recent reviews can also be useful for checking whether a machine is still available or if there are any known issues.
 
 {: .tip }
 Google Maps is best used alongside Ziv and local community resources. While it may not list individual games, it's an excellent way to confirm arcade locations, opening hours, recent photos, and customer reviews before making a trip.
+
+---
+
+#### Read Next ➡️
+
+**[Banapass](/arcade/banapass)**
+
+---
+
+🚧 **taiko.guide** is currently under active development.
+
+Documentation is being added and expanded over time, so some sections may be incomplete or marked as work in progress.

@@ -1,18 +1,18 @@
 ---
-title: Chart Mechanics
+title: Controllers FAQ
 layout: default
-parent: Getting Started
-nav_order: 5
+parent: Controllers
+nav_order: 6
 has_toc: false
 ---
 
-# Chart Mechanics
+# Frequently Asked Questions About Drum Controllers
 
 ---
 
 #### Next Topic ➡️
 
-**[At the Arcade](/arcade)**
+**[Technique](/technique)**
 
 ---
 

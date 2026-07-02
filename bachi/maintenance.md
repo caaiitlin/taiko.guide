@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Maintenance & Care
 layout: default
-parent: Controllers
-nav_order: 4
+parent: Bachi
+nav_order: 7
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Maintenance & Care
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Bachi FAQ](/bachi/faq)**
 
 ---
 

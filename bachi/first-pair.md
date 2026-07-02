@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Choosing Your First Pair
 layout: default
-parent: Controllers
-nav_order: 4
+parent: Bachi
+nav_order: 1
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Choosing Your First Pair
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Wood Types](/bachi/wood-types)**
 
 ---
 

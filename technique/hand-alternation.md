@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Hand Alternation
 layout: default
-parent: Controllers
-nav_order: 4
+parent: Technique
+nav_order: 2
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Hand Alternation
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Rolling](/technique/rolling)**
 
 ---
 

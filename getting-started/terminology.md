@@ -1,5 +1,5 @@
 ---
-title: Taiko Terminology
+title: Terminology
 layout: default
 parent: Getting Started
 nav_order: 4

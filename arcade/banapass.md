@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Banapass
 layout: default
-parent: Controllers
-nav_order: 4
+parent: At the Arcade
+nav_order: 2
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Bandai Namco Passport 
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Song Select](/arcade/song-select)**
 
 ---
 

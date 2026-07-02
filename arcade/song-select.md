@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Song Select
 layout: default
-parent: Controllers
-nav_order: 4
+parent: At the Arcade
+nav_order: 3
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Song Select
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Game Modes](/arcade/modes)**
 
 ---
 

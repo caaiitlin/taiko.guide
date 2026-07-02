@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Arcade Etiquette
 layout: default
-parent: Controllers
-nav_order: 4
+parent: At the Arcade
+nav_order: 5
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Arcade Etiquette
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Your First Credit](/arcade/first-credit)**
 
 ---
 

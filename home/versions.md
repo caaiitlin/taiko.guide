@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Game Versions
 layout: default
-parent: Controllers
-nav_order: 4
+parent: At Home
+nav_order: 2
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Game Versions
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Setting Up](/home/setting-up)**
 
 ---
 

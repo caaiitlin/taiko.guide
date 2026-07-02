@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Choosing a Platform
 layout: default
-parent: Controllers
-nav_order: 4
+parent: At Home
+nav_order: 1
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Choosing a Platform
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Game Versions](/home/versions)**
 
 ---
 

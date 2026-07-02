@@ -49,7 +49,7 @@ You'll learn about:
 - Initial setup
 - Calibration
 
-Once you've played your first few credits, come back here to learn the fundamentals of Taiko no Tatsujin.
+Once you've played your first few credits, come back to this page to learn the fundamentals of Taiko no Tatsujin.
 These guides explain how the game works and will make everything you see on-screen much easier to understand. 
 
 ---
@@ -75,10 +75,6 @@ Learn how Taiko's difficulty system works, what the star ratings represent, and 
 ## 📖 [Terminology](/getting-started/terminology)
 
 A reference guide explaining the common words, abbreviations, and community terms you'll encounter throughout the game.
-
-## [Frequently Asked Questions](/getting-started/faq/)
-
-Answers to some of the most common questions from new players, including choosing a version to play, controllers, difficulty recommendations, and more.
 
 ---
 

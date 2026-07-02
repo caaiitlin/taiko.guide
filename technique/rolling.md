@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Rolling
 layout: default
-parent: Controllers
-nav_order: 4
+parent: Technique
+nav_order: 3
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Rolling
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Accuracy](/technique/accuracy)**
 
 ---
 

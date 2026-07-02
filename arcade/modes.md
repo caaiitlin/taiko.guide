@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Game Modes
 layout: default
-parent: Controllers
+parent: At the Arcade
 nav_order: 4
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Game Modes
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Arcade Etiquette](/arcade/etiquette)**
 
 ---
 

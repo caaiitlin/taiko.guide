@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Compact Controllers
 layout: default
 parent: Controllers
-nav_order: 4
+nav_order: 3
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Compact Controllers
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Comparisons & Buying Guide](/controllers/comparison)**
 
 ---
 

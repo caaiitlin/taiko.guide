@@ -1,18 +1,18 @@
 ---
-title: Chart Mechanics
+title: Your First Credit
 layout: default
-parent: Getting Started
-nav_order: 5
+parent: At the Arcade
+nav_order: 6
 has_toc: false
 ---
 
-# Chart Mechanics
+# Playing Your First Credit
 
 ---
 
-#### Next Topic ➡️
+#### Read Next ➡️
 
-**[At the Arcade](/arcade)**
+**[Donder Hiroba](/arcade/donder-hiroba)**
 
 ---
 

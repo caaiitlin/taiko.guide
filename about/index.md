@@ -1,5 +1,5 @@
 ---
-title: About
+title: About taiko.guide
 layout: default
 nav_order: 10
 has_toc: false

@@ -1,12 +1,18 @@
 ---
-title: Controllers FAQ
+title: Practice Advice
 layout: default
-parent: Controllers
-nav_order: 10
+parent: Technique
+nav_order: 5
 has_toc: false
 ---
 
-# Frequently Asked Questions About Taiko Controllers
+# Practice Advice
+
+---
+
+#### Next Topic ➡️
+
+**[Dan-i Dojo](/dani-dojo)**
 
 ---
 

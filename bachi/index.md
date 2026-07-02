@@ -16,7 +16,7 @@ There is no single "best" pair of bachi. Different players prefer different wood
 
 This guide explains the factors that affect how bachi feel and how to choose a pair that suits you.
 
-> **Remember:** Buying expensive bachi won't instantly improve your scores. Skill comes from practice - a comfortable pair simply allows you to play more consistently over time. 
+**Remember:** Buying expensive bachi won't instantly improve your scores. Skill comes from practice - a comfortable pair simply allows you to play more consistently over time. 
 
 # Choosing & Using Bachi
 
@@ -24,27 +24,35 @@ Whether you're buying your first pair of maibachi or looking to better understan
 
 If you're new to using maibachi, start with **Choosing Your First Pair**. Once you understand the basics, you can learn more about the different materials, dimensions, and even making your own.
 
-## 🥁 [Choosing Your First Pair (TBA)](/bachi/first-pair)
+## 🥁 [Choosing Your First Pair](/bachi/first-pair)
 
 Learn what to look for when buying your first pair of maibachi, including beginner recommendations, common mistakes, and what really matters when getting started.
 
-## 🌳 [Wood Types (TBA)](/bachi/wood-types)
+## 🌳 [Wood Types](/bachi/wood-types)
 
 Compare the most common woods used for maibachi, including their weight, rebound, durability, and the advantages and disadvantages of each one.
 
-## 📏 [Size & Weight (TBA)](/bachi/size-weight)
+## 📏 [Size & Weight](/bachi/size-weight)
 
 Understand how the length, diameter, weight, and balance of bachi affect their feel, handling, and suitability for different playstyles.
 
-## 🎾 [Grip Tape & Wrapping (TBA)](/bachi/grip-tape)
+## 🎾 [Grip Tape & Wrapping](/bachi/grip-tape) 
 
-Learn why players wrap their bachi, the different types of grip tape available, common wrapping styles, and how grip placement can affect comfort and balance.
+Learn why players wrap their bachi, the different types of grip tape available, common wrapping methods, and how grip placement can affect comfort and balance. 
 
-## 🛠️ [Making Your Own Bachi (TBA)](/bachi/making-your-own)
+## 🛍️ [Bachi Makers & Sellers](/bachi/makers) 
 
-Interested in crafting your own pair? Learn about selecting dowels, shaping and finishing your bachi, and the tools and safety considerations involved.
+Discover well-known bachi makers and retailers from around the world, learn what each is known for, and find guidance on choosing a reputable seller. 
 
-## ❓ [Frequently Asked Questions (TBA)](/bachi/faq)
+## 🛠️ [Making Your Own Bachi](/bachi/make-your-own) 
+
+Interested in crafting your own pair? Learn about selecting dowels, shaping and finishing your bachi, and the tools and safety considerations involved. 
+
+## 🧼 [Maintenance & Care](/bachi/maintenance) 
+
+Learn how to keep your bachi in good condition, including cleaning, storage, inspecting for wear, and knowing when it's time to replace them. 
+
+## ❓ [Frequently Asked Questions](/bachi/faq) 
 
 Answers to common questions about maibachi, including durability, maintenance, grip tape, choosing the right pair, and other beginner concerns.
 

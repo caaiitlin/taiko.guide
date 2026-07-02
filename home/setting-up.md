@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Setting Up
 layout: default
-parent: Controllers
-nav_order: 4
+parent: At Home
+nav_order: 3
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Setting Up
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Calibration](/home/calibration)**
 
 ---
 

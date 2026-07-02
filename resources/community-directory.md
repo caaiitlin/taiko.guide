@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Community Directory
 layout: default
-parent: Controllers
-nav_order: 4
+parent: Resources
+nav_order: 1
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Community Directory
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Useful Websites](/resources/websites)**
 
 ---
 

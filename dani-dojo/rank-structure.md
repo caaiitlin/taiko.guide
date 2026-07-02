@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Rank Structure
 layout: default
-parent: Controllers
-nav_order: 4
+parent: Dan-i Dojo
+nav_order: 1
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Rank Structure
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Challenge Mechanics](/dani-dojo/challenge-mechanics)**
 
 ---
 

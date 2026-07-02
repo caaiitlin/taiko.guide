@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Challenge Mechanics
 layout: default
-parent: Controllers
-nav_order: 4
+parent: Dan-i Dojo
+nav_order: 2
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Challenge Mechanics & Requirements
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Current Courses](/dani-dojo/current-courses)**
 
 ---
 

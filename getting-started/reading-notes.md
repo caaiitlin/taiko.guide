@@ -43,7 +43,7 @@ The following abbreviations are also used:
 - **D** = Don (surface)
 - **K** = Ka (rim)
 
-Every note in Taiko no Tatsujin is simply a variation of one or both of these two inputs.
+Every note in Taiko is simply a variation of one or both of these two inputs.
 
 {: .fact }
 The drum used in *Taiko no Tatsujin* is based on the traditional Japanese **taiko** (太鼓), a family of percussion instruments that have been used in Japan for centuries.
@@ -52,7 +52,7 @@ The drum used in *Taiko no Tatsujin* is based on the traditional Japanese **taik
 
 # Common Notes
 
-These are the note types you'll encounter most frequently while playing Taiko no Tatsujin. Learning what each one represents is all you need to begin playing. 
+These are the note types you'll encounter most frequently while playing Taiko. Learning what each one represents is all you need to begin playing. 
 
 ## Don (ドン) 
 

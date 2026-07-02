@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Current Courses
 layout: default
-parent: Controllers
-nav_order: 4
+parent: Dan-i Dojo
+nav_order: 3
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Current Courses (2026)
 
 ---
 
-#### Read Next ➡️
+#### Next Topic ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Resources](/resources)**
 
 ---
 

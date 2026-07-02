@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Troubleshooting
 layout: default
-parent: Controllers
-nav_order: 4
+parent: At Home
+nav_order: 5
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Troubleshooting
 
 ---
 
-#### Read Next ➡️
+#### Next Topic ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Bachi](/bachi)**
 
 ---
 

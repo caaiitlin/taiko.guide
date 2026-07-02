@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Useful Websites
 layout: default
-parent: Controllers
-nav_order: 4
+parent: Resources
+nav_order: 2
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Useful Websites
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[YouTube Channels](/resources/youtube)**
 
 ---
 

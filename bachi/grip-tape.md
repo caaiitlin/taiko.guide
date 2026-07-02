@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Grip Tape & Wrapping
 layout: default
-parent: Controllers
+parent: Bachi
 nav_order: 4
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Grip Tape & Wrapping
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Bachi Makers & Sellers](/bachi/makers)**
 
 ---
 

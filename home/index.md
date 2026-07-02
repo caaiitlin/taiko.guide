@@ -6,22 +6,43 @@ has_children: true
 has_toc: false
 ---
 
-# Playing At Home
+# Playing at Home
 
-This section covers everything needed to get the best possible Taiko no Tatsujin experience at home.
+Playing Taiko no Tatsujin at home offers more flexibility than the arcade, but it also comes with more choices. Different platforms, game versions, controllers, and display setups can all affect your experience.
 
-From connecting controllers and reducing latency to configuring games and solving common issues, these guides aim to make home play as smooth and enjoyable as possible.
+If you're new to playing at home, the number of available platforms, game versions, and controllers can seem overwhelming. This section explains everything you need to know, from choosing where to play and setting up your equipment to calibrating your game for the best possible experience.
 
-## Topics
+---
 
-- PC setup
-- Nintendo Switch setup
-- PS4/5 setup
-- Controller compatibility
-- Calibration
-- Audio latency
-- Video settings
-- Troubleshooting
+# Home Setup
+
+The guides below cover each part of the home experience, from choosing the right platform to troubleshooting common issues.
+
+## 💿 [Choosing a Platform](/home/platforms)
+
+Compare the different ways to play Taiko at home, including consoles, PC, and other supported platforms, to help you decide which option best suits your needs.
+
+## 📚 [Game Versions](/home/versions)
+
+Learn about the different Taiko releases available on each platform, including their features, content, and major differences.
+
+## ⚙️ [Setting Up](/home/setting-up)
+
+Get your game and controller ready to play, including basic setup, recommended settings, and tips for creating a comfortable home environment.
+
+## 🎯 [Calibration](/home/calibration)
+
+Learn why audio and display latency matter, how to calibrate your setup correctly, and how to achieve the most accurate timing possible.
+
+## 🔧 [Troubleshooting](/home/troubleshooting)
+
+Find solutions to common problems such as input delay, controller issues, connection problems, and other technical difficulties.
+
+---
+
+#### Read Next ➡️
+
+**[Choosing a Platform](/home/platforms)**
 
 ---
 

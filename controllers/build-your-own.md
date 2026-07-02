@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Building Your Own Controller
 layout: default
 parent: Controllers
-nav_order: 4
+nav_order: 5
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Building Your Own Controller
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Controller FAQ](/controllers/faq)**
 
 ---
 

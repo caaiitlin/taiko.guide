@@ -1,12 +1,18 @@
 ---
-title: FAQ
+title: Reading Patterns
 layout: default
-parent: Getting Started
-nav_order: 6
+parent: Technique
+nav_order: 1
 has_toc: false
 ---
 
-# Frequently Asked Questions
+# Reading Patterns
+
+---
+
+#### Read Next ➡️
+
+**[Hand Alternation](/technique/hand-alternation)**
 
 ---
 

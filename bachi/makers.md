@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Bachi Makers & Sellers
 layout: default
-parent: Controllers
-nav_order: 4
+parent: Bachi
+nav_order: 5
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Bachi Makers & Sellers
 
 ---
 
 #### Read Next ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[Making Your Own Bachi](/bachi/make-your-own)**
 
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: Comparisons & Buying Guide
+title: Handy Tools
 layout: default
-parent: Controllers
-nav_order: 4
+parent: Resources
+nav_order: 5
 has_toc: false
 ---
 
-# Controller Comparisons & Buying Guide
+# Handy Tools
 
 ---
 
-#### Read Next ➡️
+#### Next Topic ➡️
 
-**[Building Your Own Controller](/controllers/build-your-own)**
+**[About taiko.guide](/about)**
 
 ---
 

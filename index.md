@@ -24,27 +24,27 @@ New to Taiko no Tatsujin? Start here to learn the core gameplay mechanics, note 
 
 Planning your first arcade visit or travelling to Japan? Learn how arcade cabinets work, use a Banapass, navigate game modes, understand arcade etiquette, and get the most out of the arcade experience.
 
-## [🏡 At Home (TBA)](/home)
+## [🏡 At Home](/home)
 
 Want to play outside the arcade? Explore official console releases, PC options, recommended setups, calibration, and troubleshooting to create the best possible home experience.
 
-## [🥁 Controllers (TBA)](/controllers)
+## [🥁 Controllers](/controllers)
 
 Choosing a controller can be confusing, especially with so many options available. Compare official and third-party controllers, understand compatibility, and find the setup that best suits your budget and playstyle.
 
-## [🪵 Bachi (TBA)](/bachi)
+## [🪵 Bachi](/bachi)
 
 Looking to upgrade from the standard arcade bachi? Learn how different materials, dimensions, grip styles, and makers can influence comfort, control, and overall performance.
 
-## [🎯 Technique (TBA)](/technique)
+## [🎯 Technique](/technique)
 
 Want to improve your consistency or tackle more difficult charts? Discover guides covering accuracy, stamina, rolls, hand technique, and practice methods designed to help you become a stronger player.
 
-## [🏅 Dan-i Dojo (TBA)](/dani-dojo)
+## [🏅 Dan-i Dojo](/dani-dojo)
 
 Preparing for your next Dan-i Dojo rank? Learn how the ranking system works, what each course is designed to test, and discover tips and resources to help you succeed.
 
-## [🌐 Resources & Communities (TBA)](/resources)
+## [🌐 Resources & Communities](/resources)
 
 Looking to connect with other players or discover useful tools? Find community projects, Discord servers, tournaments, videos, and other resources from across the English-speaking Taiko community.
 
