@@ -20,7 +20,7 @@ Whether you're completely new to Taiko or an experienced player looking for a re
 
 New to Taiko no Tatsujin? Start here to learn the core gameplay mechanics, note types, scoring system, difficulty levels, and terminology used throughout the game. It's the perfect foundation before exploring the rest of the site.
 
-## [🕹️ At the Arcade (TBA)](/arcade)
+## [🕹️ At the Arcade](/arcade)
 
 Planning your first arcade visit or travelling to Japan? Learn how arcade cabinets work, use a Banapass, navigate game modes, understand arcade etiquette, and get the most out of the arcade experience.
 
