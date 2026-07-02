@@ -8,7 +8,7 @@ nav_order: 1
 
 **taiko.guide** is an English-language guide and documentation project for the Japanese rhythm game **Taiko no Tatsujin** (太鼓の達人).
 
-Our goal is to provide clear, accurate, and up-to-date information covering every aspect of the game—from learning the basics to improving your technique.
+Our goal is to provide clear, accurate, and up-to-date information covering every aspect of the game - from learning the basics to improving your technique.
 
 Whether you're completely new to Taiko or an experienced player looking for a reliable reference, **taiko.guide** aims to become a trusted resource for the English-speaking community.
 
