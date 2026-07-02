@@ -36,7 +36,39 @@ electricity.
 If possible, we recommend playing on an official online Nijiiro cabinet to enjoy the latest features, content, and hardware improvements. Unless otherwise stated, all arcade 
 information on taiko.guide assumes you're playing the current Nijiiro version.
 
-# Using Arcade Locators
+# Locating a Cabinet
 
-The quickest way to find a nearby cabinet is to use an online arcade locator. These databases are maintained by the rhythm game community and are regularly updated as machines 
-are installed, moved, or removed.
+There are several ways to find an arcade cabinet. Community-maintained arcade databases are usually the best place to start, but Google Maps and local rhythm game communities 
+can also help confirm whether a machine is available before you visit.
+
+## Zenius -I- vanisher
+
+Zenius -I- vanisher (often shortened to **Ziv**) is one of the most widely used arcade locators for rhythm games. It allows you to search for Taiko no Tatsujin cabinet locations 
+by country, city, or arcade name.
+
+{: .important }
+Before searching, make sure to select the correct **Nijiiro** version for your region. Each regional version has its own list of cabinet locations as there are slight differences in features available.
+
+Use the version that matches the region you're searching in. 
+
+![Ziv Japan game selection](/assets/images/arcade/ziv-nijiiro-jp.png)
+
+*Select **太鼓の達人 ニジイロVer.** when searching within Japan.*
+
+![Ziv USA game selection](/assets/images/arcade/ziv-nijiiro-usa.png)
+
+*Select **Taiko no Tatsujin Nijiro USA (2024)** when searching within the USA.*
+
+![Ziv Asia game selection](/assets/images/arcade/ziv-nijiiro-asia.png)
+
+*Select **太鼓の達人 ニジイロVer.(アシア版）** when searching within the rest of Asia or Oceania.*
+
+Once you've selected the correct version, search by country, city, or arcade name to view known cabinet locations. Alternatively, you can browse the interactive map to explore different regions.
+
+{: .note }
+Ziv is maintained by the rhythm game community. While it's generally very accurate, newly installed cabinets or recently removed machines may take some time to appear.
+
+## Google Maps
+
+Google Maps can also be surprisingly useful, particularly if you're travelling.
+
