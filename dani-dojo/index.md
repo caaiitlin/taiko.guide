@@ -12,7 +12,7 @@ has_toc: false
 
 Dan-i Dojo is one of the game's most popular long-term goals. Players often use it to measure their skill level and improvement over time, with new courses released each year ranging from beginner-friendly Kyuu ranks through to the prestigious Tatsujin title.
 
-This guide explains how Dan-i Dojo works, how the ranking system is structured, and what to expect when attempting each course.
+This guide explains how Dan-i Dojo works in the modern Nijiiro arcade version, how the ranking system is structured, and what to expect when attempting each course.
 
 Don't be discouraged if you can't pass a course immediately. Even experienced players often spend weeks or months practising before earning a new rank.
 
