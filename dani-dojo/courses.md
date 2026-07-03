@@ -1,18 +1,19 @@
 ---
-title: Handy Tools
+title: Courses
 layout: default
-parent: Resources
-nav_order: 5
+parent: Dan-i Dojo
+nav_order: 3
 has_toc: false
 ---
 
-# Handy Tools
+# Courses
+
 
 ---
 
 #### Next Topic ➡️
 
-**[About taiko.guide](/about)**
+**[Resources](/resources)**
 
 ---
 

@@ -26,13 +26,13 @@ If you're new to Dan-i Dojo, start with **Rank Structure** and **Challenge Mecha
 
 Learn how the Dojo ranking system is organised, from the Kyū and Dan ranks through to Kurouto, Meijin, Chojin, and Tatsujin.
 
-## 📋 [Challenge Mechanics](/dani-dojo/challenge-mechanics)
+## 📋 [Clear Conditions](/dani-dojo/conditions)
 
 Understand how Dojo works, including course structure, conditions, soul gauge requirements, passing criteria, and other mechanics used throughout the mode.
 
-## 📅 [Current Courses](/dani-dojo/current-courses)
+## 📅 [Courses](/dani-dojo/courses)
 
-Browse the current year's Dojo courses, including the songs, conditions, and other information for each rank.
+Browse the current and previous year's Dojo courses, including the songs, conditions, and other information for each rank.
 
 ---
 

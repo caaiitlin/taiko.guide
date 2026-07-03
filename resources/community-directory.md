@@ -12,7 +12,7 @@ has_toc: false
 
 #### Read Next ➡️
 
-**[Useful Websites](/resources/websites)**
+**[Useful Websites & Tools](/resources/websites-tools)**
 
 ---
 

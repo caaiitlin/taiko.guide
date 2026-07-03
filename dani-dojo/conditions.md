@@ -1,18 +1,18 @@
 ---
-title: Useful Websites
+title: Clear Conditions
 layout: default
-parent: Resources
+parent: Dan-i Dojo
 nav_order: 2
 has_toc: false
 ---
 
-# Useful Websites
+# Course Clear Conditions
 
 ---
 
 #### Read Next ➡️
 
-**[YouTube Channels](/resources/youtube)**
+**[Courses](/dani-dojo/courses)**
 
 ---
 

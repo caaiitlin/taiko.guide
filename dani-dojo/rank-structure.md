@@ -12,7 +12,7 @@ has_toc: false
 
 #### Read Next ➡️
 
-**[Challenge Mechanics](/dani-dojo/challenge-mechanics)**
+**[Clear Conditions](/dani-dojo/conditions)**
 
 ---
 

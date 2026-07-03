@@ -21,21 +21,13 @@ Whether you're looking to improve your skills, stay up to date, or connect with 
 
 Find Taiko communities from around the world, including major Discord servers, Facebook groups, and other places to connect with local players.
 
-## 💻 [Useful Websites](/resources/websites)
+## 💻 [Useful Websites & Tools](/resources/websites-tools)
 
-Browse websites that provide valuable information, including score tracking, arcade locators, documentation, and other online resources.
+Browse a collection of useful websites and community-made tools, including documentation, score trackers, arcade locators, chart databases, practice tools, and other helpful resources.
 
 ## 🎥 [YouTube Channels](/resources/youtube)
 
 Discover YouTube channels featuring gameplay, tutorials, livestreams, news, chart previews, and other Taiko content.
-
-## 💬 [Discord Servers](/resources/discord)
-
-Find regional Discord communities from around the world where you can ask questions, share scores, find local players, and stay up to date with the community.
-
-## 🛠️ [Handy Tools](/resources/tools)
-
-Explore useful utilities created by the community, including Discord bots, chart viewers, practice tools, and other helpful software.
 
 ---
 

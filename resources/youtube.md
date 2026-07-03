@@ -10,9 +10,9 @@ has_toc: false
 
 ---
 
-#### Read Next ➡️
+#### Next Topic ➡️
 
-**[Discord Servers](/resources/discord)**
+**[Technique](/technique)**
 
 ---
 
