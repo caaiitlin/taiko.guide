@@ -6,18 +6,19 @@ The project is currently under active development. Version numbers represent sig
 
 ## Development Milestones
 
-| Version | Milestone | Status |
-|----------|-----------|:------:|
-| **v0.1.0** | Initial project setup | ✅ |
-| **v0.2.0** | Documentation framework and navigation complete | ✅ |
-| **v0.3.0** | Getting Started section complete | ⏳ |
-| **v0.4.0** | Controllers section complete | ⏳ |
-| **v0.5.0** | Public beta release | ⏳ |
-| **v0.6.0** | Bachi section complete | ⏳ |
-| **v0.7.0** | Technique section complete | ⏳ |
-| **v0.8.0** | Dan-i Dojo section complete | ⏳ |
-| **v0.9.0** | Core documentation feature complete | ⏳ |
-| **v1.0.0** | First stable release | ⏳ |
+| Version    | Milestone                                                       | Status |
+| ---------- | --------------------------------------------------------------- | :----: |
+| **v0.1.0** | Initial project setup                                           |    ✅   |
+| **v0.2.0** | Documentation framework and navigation complete                 |    ✅   |
+| **v0.3.0** | Getting Started section complete                                |    ⏳   |
+| **v0.4.0** | At the Arcade section complete                                  |    ⏳   |
+| **v0.5.0** | At Home section complete                                        |    ⏳   |
+| **v0.6.0** | Bachi section complete                                          |    ⏳   |
+| **v0.7.0** | Controllers section complete                                    |    ⏳   |
+| **v0.8.0** | Technique & Dan-i Dojo sections complete                        |    ⏳   |
+| **v0.9.0** | Core documentation feature complete (all planned pages written) |    ⏳   |
+| **v1.0.0** | First stable public release                                     |    ⏳   |
+
 
 ---
 

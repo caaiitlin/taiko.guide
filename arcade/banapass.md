@@ -44,7 +44,7 @@ Some of the features unlocked by using a Banapass include:
 - Unlocking and equipping titles, costumes, and other customisation items
 - Accessing **[Donder Hiroba](/arcade/donder-hiroba)**
 - Ability to participate in online events and limited-time campaigns
-- Saving your **[Dan-i Dojo](/adani-dojo)** progress
+- Ability to access the **[Dan-i Dojo](/adani-dojo)** game mode and save progress
 - Ability to use the same profile on any compatible online Taiko cabinet
 
 A Banapass is generally a one-time purchase. As long as you look after it, the same card can be used for years.
@@ -79,6 +79,23 @@ The first time you use a new Banapass, the game will guide you through creating 
 | ![Banapass card reader](/assets/images/arcade/banapass-reader.png) | 
 |:--:| 
 | *The card reader found on modern Nijiiro cabinets. Depending on the cabinet's age, it may be labelled Bandai Namco Passport or Banapassport.* |
+
+## Cabinet Network Status
+
+Before using your Banapass, it's worth checking whether the cabinet is connected to the network.
+
+Online cabinets can save your progress, upload scores, access online events, and use other Banapass features. Offline cabinets can still be played normally, but progress and online functionality will be unavailable.
+
+The network status indicator is shown as a small square icon in the bottom-right corner of the game screen.
+
+| ![Network online](/assets/images/arcade/network-online.webp) | ![Network issue](/assets/images/arcade/network-issue.webp) | ![Network offline](/assets/images/arcade/network-offline.webp) |
+|:-|:--|:--|
+| *Network online* | *Network issue* | *Network offline* |
+
+{: .important }
+> The Taiko no Tatsujin online servers undergo scheduled daily maintenance from **5:00 AM to 7:00 AM JST**. During this period, Banapass login is unavailable, meaning you cannot access your player profile or use any online features until maintenance has finished.
+> 
+> Bandai Namco may also perform additional scheduled maintenance outside these hours. To stay informed, follow the official Taiko no Tatsujin social media accounts, which are linked in the [**Useful Websites & Tools**](/resources/websites-tools) section of this guide.
 
 # Registering Your Card
 
