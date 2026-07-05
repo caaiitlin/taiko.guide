@@ -60,7 +60,7 @@ For most players, the Steam version is the easiest platform to recommend. It off
 
 ## Advantages
 
-- Supports latest official drum controllers, as well as many third-party options.
+- Supports the latest official drum controllers, as well as many third-party options.
 - Largest online multiplayer community.
 - Regional pricing is available in many countries.
 - Supports high refresh rate displays (120 Hz and above).
@@ -76,6 +76,9 @@ For most players, the Steam version is the easiest platform to recommend. It off
 One of the biggest advantages of purchasing Rhythm Festival on Steam is that it can also be played on **Steam Deck**.
 
 This gives you the flexibility to play on both a desktop PC and a handheld device without needing to purchase another version of the game, making it a great option for players who want to enjoy Taiko both at home and while travelling.
+
+{: .note }
+Although Steam Deck includes a touchscreen, Rhythm Festival **does not support touchscreen controls on Steam**. Instead, you'll need to use the built-in controls, a keyboard, an external game controller, or a drum controller.
 
 ---
 
@@ -123,6 +126,7 @@ The Nintendo Switch version is ideal for players who value portability while sti
 ## Advantages
 
 - Play both docked and handheld.
+- Supports touchscreen controls in handheld mode.
 - Great for local multiplayer.
 - Can output audio directly from the console's headphone jack, bypassing the additional audio latency introduced by HDMI.
 - Official drum controller available.
@@ -131,7 +135,7 @@ The Nintendo Switch version is ideal for players who value portability while sti
 ### Things to consider
 
 - Nintendo Switch Online is required for online multiplayer.
-- Does not support high refresh rate displays.
+- Limited to 60Hz displays.
 - Performance may occasionally be lower than on PC, PlayStation 5, or Xbox due to the Switch’s portable hardware.
 - Limited controller compatibility compared to PC.
 
@@ -205,14 +209,15 @@ Here are our general recommendations based on the most common situations:
 
 If you're still undecided, here's a quick summary to help you:
 
-| Feature                                      |       Steam      |    PS5    | Xbox Series X\|S | Switch (1 & 2) |
-| -------------------------------------------- | :--------------: | :-------: | :-------------: | :------------: |
-| Online Updates & Music Pass                  |         ✅        |     ✅     |        ✅        |        ✅       |
-| Online Multiplayer                           |         ✅        |     ✅     |        ✅        |        ✅       |
-| Subscription Required for Online Multiplayer |         ❌        |     ✅     |        ✅        |        ✅       |
-| Portable                                     | ❌ (✅ Steam Deck) |     ❌     |        ❌        |        ✅       |
-| Official Drum Controller                     |         ✅        |     ✅     |        ✅        |        ✅       |
-| High Refresh Rate Support                    |    ✅ (PC: 120Hz+) | ✅ (120Hz) |    ✅ (120Hz)    |    ❌ (60Hz)    |
+| Feature                                      |       Steam       |    PS5    | Xbox Series X\|S | Switch (1 & 2) |
+| -------------------------------------------- | :---------------: | :-------: | :--------------: | :------------: |
+| Online Updates & Music Pass                  |         ✅         |     ✅     |        ✅         |        ✅       |
+| Online Multiplayer                           |         ✅         |     ✅     |        ✅         |        ✅       |
+| Subscription Required for Online Multiplayer |         ❌         |     ✅     |        ✅         |        ✅       |
+| Portable                                     | ❌ (✅ Steam Deck) |     ❌     |        ❌         |        ✅       |
+| Touchscreen Controls                         |         ❌         |     ❌     |        ❌         |        ✅       |
+| Official Drum Controller                     |         ✅         |     ✅     |        ✅         |        ✅       |
+| High Refresh Rate Support                    |  ✅ (PC: 120Hz+)  | ✅ (120Hz) |    ✅ (120Hz)     |    ❌ (60Hz)    |
 
 {: .note }
 The Steam version supports high refresh rate displays on compatible desktop PCs. Steam Deck LCD supports up to 60Hz, while Steam Deck OLED supports up to 90Hz.

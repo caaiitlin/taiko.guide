@@ -2,17 +2,17 @@
 title: Terminology
 layout: default
 parent: Getting Started
-nav_order: 4
+nav_order: 5
 has_toc: false
 ---
 
 # Taiko Terminology
 
-----
+---
 
-#### Read Next ➡️
+#### Next Topic ➡️
 
-**[Chart Mechanics](/getting-started/chart-mechanics)**
+**[At the Arcade](/arcade)**
 
 ---
 

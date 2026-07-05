@@ -175,7 +175,7 @@ Hand-Holding Notes are exclusive to specific 2-player charts and can safely be i
 
 #### Read Next ➡️
 
-**[Scoring & Judgement](/getting-started/scoring)**
+**[Gameplay Mechanics](/getting-started/game-mechanics)**
 
 ---
 

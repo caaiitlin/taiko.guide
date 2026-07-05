@@ -64,6 +64,10 @@ The guides below explain the game's core mechanics. They can be read in order, o
 
 Learn what every note type means, how to recognise them, and the correct way to play them.  
 
+## 🎮 [Gameplay Mechanics](/getting-started/game-mechanics)
+
+Learn how gameplay works once a song begins, including the note highway, on-screen interface, gameplay mechanics, and other elements you'll encounter while playing.
+
 ## ⭐ [Scoring & Judgement](/getting-started/scoring)
 
 Understand how your performance is scored, how the Soul Gauge works, how accuracy is judged, and what determines your final result.   

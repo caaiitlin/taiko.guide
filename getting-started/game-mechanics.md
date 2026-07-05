@@ -1,18 +1,18 @@
 ---
-title: Chart Mechanics
+title: Gameplay Mechanics
 layout: default
 parent: Getting Started
-nav_order: 5
+nav_order: 2
 has_toc: false
 ---
 
-# Chart Mechanics
+# Gameplay Mechanics
 
 ---
 
-#### Next Topic ➡️
+#### Read Next ➡️
 
-**[At the Arcade](/arcade)**
+**[Scoring & Judgement](/getting-started/scoring)**
 
 ---
 
