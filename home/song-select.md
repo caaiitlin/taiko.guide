@@ -1,18 +1,18 @@
 ---
-title: Troubleshooting
+title: Song Select (Rhythm Festival)
 layout: default
 parent: At Home
-nav_order: 6
+nav_order: 5
 has_toc: false
 ---
 
-# Troubleshooting
+# Song Select (Rhythm Festival)
 
 ---
 
-#### Next Topic ➡️
+#### Read Next ➡️
 
-**[Bachi](/bachi)**
+**[Troubleshooting](/home/troubleshooting)**
 
 ---
 

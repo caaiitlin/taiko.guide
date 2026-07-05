@@ -26,7 +26,7 @@ Learn how to find Taiko cabinets in your region, including useful arcade locator
 
 Learn what a Banapass is, how to use one, and why it's recommended if you plan to play regularly.
 
-## [Song Select](/arcade/song-select)
+## 🎵 [Song Select](/arcade/song-select)
 
 Learn how to navigate the song selection screen, choose difficulties, and understand the information shown before starting a song.
 

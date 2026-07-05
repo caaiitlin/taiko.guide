@@ -1,12 +1,12 @@
 ---
-title: Game Modes
+title: Game Modes (Nijiiro)
 layout: default
 parent: At the Arcade
 nav_order: 4
 has_toc: false
 ---
 
-# Game Modes
+# Game Modes (Nijiiro)
 
 ---
 

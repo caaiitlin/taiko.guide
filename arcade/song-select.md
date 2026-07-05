@@ -1,12 +1,12 @@
 ---
-title: Song Select
+title: Song Select (Nijiiro)
 layout: default
 parent: At the Arcade
 nav_order: 3
 has_toc: false
 ---
 
-# Song Select
+# Song Select (Nijiiro)
 
 ---
 

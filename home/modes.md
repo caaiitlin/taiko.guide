@@ -1,18 +1,18 @@
 ---
-title: Game Versions
+title: Game Modes (Rhythm Festival)
 layout: default
 parent: At Home
-nav_order: 2
+nav_order: 4
 has_toc: false
 ---
 
-# Game Versions
+# Game Modes (Rhythm Festival)
 
 ---
 
 #### Read Next ➡️
 
-**[Setting Up](/home/setting-up)**
+**[Song Selection (Rhythm Festival)](/home/song-select)**
 
 ---
 

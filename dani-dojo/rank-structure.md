@@ -77,7 +77,7 @@ These are commonly referred to by the community as the **Jin Dans**, since each 
 
 ## Kurouto
 
-**Kurouto** is the first title rank after 10th Dan. It marks the transition from the numbered Dan ranks into the highest level of Dojo play.
+**Kurouto** is the first title rank after 10th Dan. It marks the transition from the numbered Dan ranks into the highest levels of Dojo.
 
 ## Meijin
 

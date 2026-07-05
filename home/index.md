@@ -20,11 +20,7 @@ The guides below cover each part of the home experience, from choosing the right
 
 ## 💿 [Choosing a Platform](/home/platforms)
 
-Compare the different ways to play Taiko at home, including consoles, PC, and other supported platforms, to help you decide which option best suits your needs.
-
-## 📚 [Game Versions](/home/versions)
-
-Learn about the different Taiko releases available on each platform, including their features, content, and major differences.
+Compare the different ways to play Taiko no Tatsujin at home, including Rhythm Festival on PC and consoles, and Pop Tap Beat on Apple Arcade, to help you choose the platform that's right for you.
 
 ## ⚙️ [Setting Up](/home/setting-up)
 
@@ -33,6 +29,14 @@ Get your game and controller ready to play, including basic setup, recommended s
 ## 🎯 [Calibration](/home/calibration)
 
 Learn why audio and display latency matter, how to calibrate your setup correctly, and how to achieve the most accurate timing possible.
+
+## 🎮 [Game Modes](/home/modes)
+
+Discover the different game modes in Rhythm Festival and what makes each one unique.
+
+## 🎵 [Song Select](/home/song-select)
+
+Learn how to browse the song list, select a difficulty, adjust gameplay options, and prepare for your next song.
 
 ## 🔧 [Troubleshooting](/home/troubleshooting)
 
