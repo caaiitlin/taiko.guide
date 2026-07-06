@@ -27,7 +27,7 @@ This page explains the best ways to find a Taiko cabinet, along with a few tips 
 **Nijiiro** (ニジイロ, meaning *rainbow-coloured*) is the current arcade version of Taiko. First introduced in 2020, it continues to receive regular software updates, 
 new songs, online events, and gameplay improvements.
 
-| ![Official Nijiiro cabinet](/assets/images/arcade/taikocab.png) | 
+| ![Official Nijiiro cabinet](/assets/images/arcade/nijiiro-cab.png) | 
 |:--:| 
 | *An official Taiko no Tatusjin (Nijiiro) cabinet* |
 

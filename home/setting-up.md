@@ -17,7 +17,7 @@ This page covers the basics of preparing your setup before moving on to the more
 {: .note }
 If you don't already own a drum controller, **Taiko no Tatsujin** can also be played using a keyboard or standard game controller. In fact, these control methods are often simpler to set up, as they typically require little or no additional configuration.
 
-This section primarily assumes you're using a drum controller, but most of the advice still applies regardless of your chosen control method. If you're thinking about purchasing a drum, the **Controllers** section later in this guide compares the available options and explains what to look for.
+This section primarily assumes you're using a drum controller, but most of the advice still applies regardless of your chosen control method. If you're thinking about purchasing a drum, the **[Controllers](/controllers/)** section later in this guide compares the available options and explains what to look for.
 
 Before continuing, make sure you have:
 
@@ -48,18 +48,17 @@ Begin by placing your controller on a stable, flat surface that won't slide or w
 
 Think about your posture as well. Whether you prefer sitting or standing, try to position yourself so your shoulders remain relaxed and your arms can move freely without reaching too high or too low. Position your monitor at a comfortable viewing height where you can clearly see the judgement circle while keeping your neck in a natural, relaxed position. Small adjustments to your chair, desk, monitor, or controller position can make a noticeable difference to comfort over longer play sessions.
 
-{: .tip }
-If you're aiming for an arcade-like experience, position the **playing surface** of your drum so that the **top of the drum sits approximately 1200 mm (120 cm) above the floor**. This closely matches the height of a Taiko no Tatsujin arcade cabinet and helps recreate a similar playing posture and arm movement.
-
-Don't worry about recreating the arcade perfectly. The goal is simply to create a setup that's comfortable, consistent, and enjoyable to play on.
-
-*potential image: a complete home showing the drum and monitor (no noise reduction yet). visual example of how everything fits together before discussing more details*
-
 | ![Drum on desk](/assets/images/home/drum-desk.png) | 
 |:--:| 
-| *Placeholder image to show drum setup on desk with monitor* |
+| *An example drum setup on desk with monitor behind.* |
 
-*potential image: taiko operator manual screenshot showing arcade drum height*
+If you're aiming for an arcade-like experience, position the **playing surface** of your drum so that the **top of the drum sits approximately 1200 mm (120 cm) above the floor**. This closely matches the height of a Taiko no Tatsujin arcade cabinet and helps recreate a similar playing posture and arm movement.
+
+| ![Arcade drum height](/assets/images/home/arcade-height.png) | 
+|:--:| 
+| *Official specs showing the 1200mm distance from the floor to top of the drum.* |
+
+Don't worry about recreating the arcade perfectly. The goal is simply to create a setup that's comfortable, consistent, and enjoyable to play on.
 
 ---
 

@@ -24,7 +24,7 @@ If you're new to Dan-i Dojo, start with **Rank Structure** and **Challenge Mecha
 
 ## 🎖️ [Rank Structure](/dani-dojo/rank-structure)
 
-Learn how the Dojo ranking system is organised, from the Kyū and Dan ranks through to Kurouto, Meijin, Chojin, and Tatsujin.
+Learn how the Dojo ranking system is organised, from the Kyuu and Dan ranks through to Kurouto, Meijin, Choujin, and Tatsujin.
 
 ## 📋 [Clear Conditions](/dani-dojo/conditions)
 

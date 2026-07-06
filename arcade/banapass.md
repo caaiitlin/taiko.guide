@@ -12,7 +12,7 @@ A **Bandai Namco Passport**, commonly called a **Banapass**, is an IC card used 
 
 | ![Banapass](/assets/images/arcade/banapass.png) | 
 |:--:| 
-| *Bandai Namco Passport* |
+| *Bandai Namco Passport card design.* |
 
 
 If you plan to play regularly, using a Banapass is highly recommended - it's an inexpensive one-time purchase that can be used for many years.
@@ -57,6 +57,10 @@ Banapasses are sold at many arcades that operate Bandai Namco games, though avai
 
 If your arcade has the racing game **Wangan Midnight Maximum Tune**, look for the large touchscreen **Wangan Terminal** beside the game. These terminals allow players to purchase a new Banapass without needing to visit the counter.
 
+| ![Wangan Terminal](/assets/images/arcade/wangan-terminal.png) | 
+|:--:| 
+| *A Wangan Terminal can be used to purchase a Banapass.* |
+
 If your local arcade doesn't stock Banapasses, you may also be able to purchase one from an online retailer or importer.
 
 {: .tip }
@@ -78,7 +82,7 @@ The first time you use a new Banapass, the game will guide you through creating 
 
 | ![Banapass card reader](/assets/images/arcade/banapass-reader.png) | 
 |:--:| 
-| *The card reader found on modern Nijiiro cabinets. Depending on the cabinet's age, it may be labelled Bandai Namco Passport or Banapassport.* |
+| *The card reader found on modern Nijiiro cabinets is located between the two taiko drums. Depending on the cabinet's age, it may be labelled Bandai Namco Passport or Banapassport.* |
 
 ## Cabinet Network Status
 
