@@ -105,9 +105,14 @@ One of the most effective methods is placing the controller on a surface that ab
 
 Some players also place a thin cloth or towel over the drum surface itself to soften the impact sound. While this can make the controller quieter, it also changes the feel of the drum slightly, so it may not be suitable for everyone.
 
-If you live with family, housemates, or in an apartment or unit with shared walls, reducing vibration can make your setup much more considerate for those around you, particularly during early morning or late-night practice sessions. Even small changes to the surface beneath your controller can significantly reduce the amount of noise that travels through desks, floors, and walls.
+| Standard Setup | Towel Over Drum | Towel Under Drum |
+|:--:|:--:|:--:|
+| ![standard setup](/assets/images/home/desk-setup1.png)| ![towel on top](/assets/images/home/desk-setup2.png)| ![towel underneath](/assets/images/home/desk-setup3.png) |
+| No additional noise reduction. | Reduces the sound of the bachi striking the drum. | Reduces vibrations transferred into the desk or floor. |
 
-*potential image: drum placed directly on a desk/drum placed on a folded towel or thick foam mat: side-by-side comparison showing a recommended setup for reducing vibration*
+*Photos (above) courtesy of Kevin2o2.*
+
+If you live with family, housemates, or in an apartment or unit with shared walls, reducing vibration can make your setup much more considerate for those around you, particularly during early morning or late-night practice sessions. Even small changes to the surface beneath your controller can significantly reduce the amount of noise that travels through desks, floors, and walls.
 
 ---
 
