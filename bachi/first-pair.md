@@ -125,7 +125,7 @@ They also include removable **wrist straps**, which help prevent accidentally dr
 
 ## Handcrafted Maibachi
 
-If you know you'll be playing Taiko, it's worth considering a handcrafted pair from a specialist workshop or craftsperson.
+If you know you'll be playing Taiko regularly, it's worth considering a handcrafted pair from a specialist workshop or craftsperson.
 
 Some popular bachi makers include:
 

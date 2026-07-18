@@ -40,7 +40,7 @@ Some players live hours away from their nearest cabinet, while others don't have
 
 Even if you mainly play at the arcade, a drum controller allows you to continue practicing at home. Many players use home play to improve consistency, learn difficult charts, or prepare for Dan-i Dojo before attempting the challenge on an arcade cabinet. 
 
-While no home setup perfectly replicates the arcade, practicing on a drum controller develops many of the same skills, including timing, stamina, stick control, and movement. As a result, these skills generally transfer much more effectively to arcade play than practising with a standard game controller, keyboard, or touchscreen.
+While no home setup perfectly replicates the arcade, practicing on a drum controller develops many of the same skills, including timing, stamina, stick control, and movement. As a result, these skills generally transfer much more effectively to arcade play than practicing with a standard game controller, keyboard, or touchscreen.
 
 ## Play on Your Own Schedule
 
@@ -117,7 +117,7 @@ While there are several drum controllers available, they can generally be groupe
 
 The photo below compares three popular controller sizes. While the TDC10 and IINE Pro Max are both considered compact controllers, the IINE Pro Max offers a noticeably larger playing surface. Arcade-style controllers, like the Taikoller, are significantly larger again, closely matching the size of a real Taiko arcade drum.
 
-| ![Controller sizes](/assets/images/home/iinepm-tdc10-taikoller.png) | 
+| ![Controller sizes](/assets/images/controllers/iinepm-tdc10-taikoller.png) | 
 |:--:| 
 | *From left to right: IINE Pro Max, Rythmagica TDC10, and GAMO2 Taikoller. Photo courtesy of Reddit user u/Amaroko, used with permission.* |
 
@@ -152,13 +152,13 @@ Current examples include:
 
 Because they are produced by different manufacturers, build quality, compatibility, and supported features can vary considerably. Some models are aimed at casual players looking for an upgrade over an official controller, while others are designed for enthusiasts who want more customisation and performance without moving to a full arcade-style controller.
 
-| ![Compact cons](/assets/images/home/compact-cons.png) | 
+| ![Compact cons](/assets/images/controllers/compact-cons.png) | 
 |:--:| 
 | *From left to right: HORI drum for Nintendo Switch, Rythmagica TDC10, and IINE Tatacon. Photo courtesy of Reddit user u/Amaroko, used with permission.* |
 
 ## Arcade-style Controllers
 
-Arcade-style controllers, also known as **ASCs**, are designed to recreate the look, feel, and playing experience of a real Taiko arcade cabinet as closely as possible. Unlike compact controllers, they feature a full-size playing surface comparable to an arcade drum, making them a popular choice for players who regularly practise at home or want the most authentic experience possible.
+Arcade-style controllers, also known as **ASCs**, are designed to recreate the look, feel, and playing experience of a real Taiko arcade cabinet as closely as possible. Unlike compact controllers, they feature a full-size playing surface comparable to an arcade drum, making them a popular choice for players who regularly practice at home or want the most authentic experience possible.
 
 These controllers are typically built using higher-quality materials and offer excellent sensitivity, durability, and customisation. Many also use replaceable components, allowing parts such as the drumhead or sensors to be repaired or upgraded over time.
 
@@ -170,7 +170,7 @@ Current commercially available ASCs include:
 - ZhongTaiko
 - TDC17
 
-| ![ASCs](/assets/images/home/ascs.png) | 
+| ![ASCs](/assets/images/controllers/ascs.png) | 
 |:--:| 
 | *From left to right: GAMO2 Taikoller, YuanCon TaikoForce Lv6, and ZhongTaiko.* |
 
@@ -322,7 +322,7 @@ Unlike compact controllers, ASCs are much larger and are generally intended to r
 
 The cheapest controller isn't always the best value.
 
-Shipping costs, import fees, taxes, and regional availability can significantly change the final price. Depending on where you live, a controller that appears more expensive at first may end up costing a similar amount to a cheaper alternative after all additional costs are considered.
+Shipping costs, import fees, taxes, and regional availability can significantly change the final price. Depending on where you live, a controller that appears cheaper at first may end up costing a similar amount to a more expensive alternative after all additional costs are considered.
 
 {: .tip }
 If you're still unsure, don't overthink your first purchase. A controller that suits your budget, available space, and platform is almost always a better choice than chasing the "perfect" controller. As you gain more experience, you'll naturally discover what features matter most to you.
