@@ -124,6 +124,7 @@ The **TDC17** is Rythmagica's flagship ASC, combining a full-sized drum surface 
 - VESA mounting support for custom setups
 - Optional tripod available for purchase
 - Enclosed rear housing protects the internal assembly.
+- Ships with a pair of Rythmagica "F5" bachi.
 
 ## Best For
 
@@ -191,7 +192,7 @@ Players who enjoy fine-tuning their controller and want extensive control over c
 - Broad platform compatibility through interchangeable e-boxes
 - Uses the same internal drum connector as Taiko Force LV5/LV6, allowing compatible e-boxes from either manufacturer to be used interchangeably.
 - Sensitivity is adjusted using physical knobs on the e-box rather than companion software.
-- Includes a foam noise-reduction mat, anti-slip mat, and replacement piezo sensor.
+- Ships with a pair of ZhongTaiko "THE ONE" bachi, foam noise-reduction mat, anti-slip mat, and replacement piezo sensor.
 
 ## Best For
 
