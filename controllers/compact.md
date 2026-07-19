@@ -14,27 +14,11 @@ This page explains what makes compact controllers different, who they're best su
 
 ### On this page
 
-- What Are Compact Controllers?
-- HORI Tatacon
-- Rythmagica TDC10
-- IINE Pro Max
-- Other Compact Controllers
-
----
-
-# Compact Controllers
-
-Compact controllers provide an affordable and convenient way to play Taiko no Tatsujin at home. Their smaller size, lower cost, and portability make them the most popular choice for home players, while newer designs are capable of supporting everything from casual play to high-level performance.
-
-This page explains what makes compact controllers different, who they're best suited for, and provides an overview of the most popular models currently available.
-
-### On this page
-
-- What Are Compact Controllers?
-- HORI Tatacon
-- Rythmagica TDC10
-- IINE Pro Max
-- Other Compact Controllers
+- [What Are Compact Controllers?](#what-are-compact-controllers)
+- [HORI Tatacon](#hori-tatacon)
+- [Rythmagica TDC10](#rythmagica-tdc10)
+- [IINE Pro Max](#iine-pro-max)
+- [Other Compact Controllers](#other-compact-controllers)
 
 ---
 
@@ -96,7 +80,7 @@ The **HORI Tatacon** is the official Taiko no Tatsujin controller produced under
 ## Good to Know
 
 - Features a **23 cm (9 in.)** drum surface
-- Available in Nintendo Switch, PlayStation 5, and Xbox Series X|S versions
+- Available in Nintendo Switch, PlayStation 5, and Xbox Series X\|S versions
 - PS5 and Xbox versions feature native PC support via a mode switch on the rear of the controller
 - One of the most heavily modified Taiko controllers, with extensive community guides available
 - Replacement parts and aftermarket modifications are widely available
